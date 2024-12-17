@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "Работа с HTML-формами"
 
-![CI](https://github.com/unker/ahj-homeworks-forms/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/marusinaann/ajs-forms/actions/workflows/web.yml/badge.svg)
 
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
