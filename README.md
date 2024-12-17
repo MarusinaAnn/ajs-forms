@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/marusinaann/ajs-forms/actions/workflows/web.yml/badge.svg)
 
+https://marusinaann.github.io/ajs-forms/
+
 Правила сдачи задания:
 1. **Важно**: в рамках этого ДЗ вы можете использовать любой пакетный менеджер
 2. Всё должно собираться через Webpack (включая картинки и стили) и выкладываться на Github Pages через Appveyor.
